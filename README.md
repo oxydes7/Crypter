@@ -32,3 +32,5 @@ Sıkıldığımda yazdığım bir crypter. Güvenli olduğunu iddia etmiyorum ki
 
 7)Aldığın veriyi tekrar rot13 ile decode et
 
+
+not: neden class kullandığımı sormayın, ben de bilmiyorum.
