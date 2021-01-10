@@ -1,4 +1,3 @@
 onetimepad
 colorama
-codecs
 pyperclip
